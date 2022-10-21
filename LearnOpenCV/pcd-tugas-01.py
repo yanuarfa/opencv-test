@@ -21,4 +21,4 @@ cv.imshow('Original', img)
 cv.imshow('Contrast', res)
 plt.show()
 cv.waitKey(0)
-cv.destroyAllWindows
+# cv.destroyAllWindows
